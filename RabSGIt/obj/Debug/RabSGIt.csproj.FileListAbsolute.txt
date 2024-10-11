@@ -1,0 +1,7 @@
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\bin\Debug\RabSGIt.exe.config
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\bin\Debug\RabSGIt.exe
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\bin\Debug\RabSGIt.pdb
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\obj\Debug\RabSGIt.csproj.AssemblyReference.cache
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\obj\Debug\RabSGIt.csproj.CoreCompileInputs.cache
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\obj\Debug\RabSGIt.exe
+C:\Users\kartu\Desktop\Учеба\Mdk0101\RabSGIt\RabSGIt\obj\Debug\RabSGIt.pdb
