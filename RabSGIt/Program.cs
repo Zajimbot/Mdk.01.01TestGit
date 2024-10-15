@@ -10,13 +10,17 @@ namespace RabSGIt
     {
         static void Main(string[] args)
         {
-            int a, b, c;
+            int a, b, c, resultSab;
 
 
             a = Convert.ToInt32( Console.ReadLine());
             b = Convert.ToInt32( Console.ReadLine());
             c = a + b;
+            resultSab = a - b;
             Console.WriteLine(c);
+            Console.WriteLine(resultSab);
+
+            Console.ReadKey();
 
         }
     }
