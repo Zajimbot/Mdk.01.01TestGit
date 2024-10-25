@@ -11,7 +11,7 @@ namespace RabSGIt
         static void Main(string[] args)
         {
             int a, b, c, resultSab, resultmul, resultDiv;
-            double resultSin, resultCos;
+            double resultSin, resultCos, RPow;
 
             a = Convert.ToInt32( Console.ReadLine());
             b = Convert.ToInt32( Console.ReadLine());
@@ -22,6 +22,7 @@ namespace RabSGIt
 
             resultSin = Math.Sin( a );
             resultCos = Math.Cos( a );
+            RPow = Math.Pow( a, 2 );
 
             Console.WriteLine(c);
             Console.WriteLine(resultSab);
@@ -29,6 +30,7 @@ namespace RabSGIt
             Console.WriteLine(resultDiv);
             Console.WriteLine(resultSin);
             Console.WriteLine($" Cos({a}) = {resultCos}");
+            Console.WriteLine(RPow);
                 
             Console.ReadKey();
 
